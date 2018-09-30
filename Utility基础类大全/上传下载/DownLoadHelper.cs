@@ -1,9 +1,10 @@
-﻿using System;
+﻿ 
+using System;
 using System.IO;
 using System.Web;
 using System.Threading;
 
-namespace DotNet.Utilities
+namespace Common.Utility
 {
     /// <summary>
     /// 文件下载帮助类
